@@ -25,18 +25,18 @@
 ```HTML
 <html lang="en">
     <head>
-        <title>Document
-            <body>
-                guvi
+        <title>Document guvi</title>
     </head>
-    <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+    <body>
         <div>
-            <div>
-                Guvi Geek Network
-            </div>
-        </body>
-    </html>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+        <div>
+            Guvi Geek Network
+        </div>
+    </body>
+</html>
 ```
 
 ---
