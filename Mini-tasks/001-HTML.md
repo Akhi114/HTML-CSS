@@ -144,7 +144,27 @@
 ---
 
 6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
+```HTML
+<html lang="en">
+<head>
+    <title>Contact Us</title>
+</head>
+<body>
 
+    <h2>Employee type!</h2>
+    <form action="submit_form.php" method="post">
+        <label>Employee Type:</label><br>
+        <input type="radio" id="salaried" name="employee_type" value="Salaried" required>
+        <label for="salaried">Salaried</label><br>
+
+        <input type="radio" id="own_business" name="employee_type" value="Own Business" required>
+        <label for="own_business">Own Business</label><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
+```
 ---
 
 7. Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
