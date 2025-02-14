@@ -89,10 +89,6 @@
   - MongoDB
   - Cansandra
 
----
-
-5. Create an element that helps you to open the https://google.com in separate new tab.
-
 ```HTML
 <html lang="en">
 <head>
@@ -134,7 +130,17 @@
 </body>
 </html>
 ```
+---
 
+5. Create an element that helps you to open the https://google.com in separate new tab.
+```HTML
+<html lang="eng">
+<body>
+    <h2>Opening google in new tab</h2>
+    <a href="https://google.com" target="_blank">Click here to search on Google</a>
+</body>
+</html>
+```
 ---
 
 6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
