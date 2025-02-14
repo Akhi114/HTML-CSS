@@ -42,7 +42,7 @@
 ---
 
 3. Design a contact us form with all fields as required.
-```
+```HTML
 <html lang="en">
 <head>
     <title>Contact Us</title>
