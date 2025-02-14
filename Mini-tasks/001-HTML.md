@@ -93,6 +93,48 @@
 
 5. Create an element that helps you to open the https://google.com in separate new tab.
 
+```HTML
+<html lang="en">
+<head>
+    <title>Programming & Database</title>
+</head>
+<body>
+
+    <h2>Programming Language</h2>
+    <ul>
+        <li><h3>JavaScript</h3>
+            <ol>
+                <li>Angular</li>
+                <li>React</li>
+                <li>Vue.js</li>
+            </ol>
+        </li>
+        <li><h3>Python</h3>
+            <ol>
+                <li>Django Framework</li>
+                <li>Flask Framework</li>
+            </ol>
+        </li>
+        <li><h3>Java</h3>
+            <ol>
+                <li>Spring</li>
+                <li>Maven</li>
+                <li>Hibernate</li>
+            </ol>
+        </li>
+    </ul>
+
+    <h2>Database</h2>
+    <ul>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+        <li>Cassandra</li>
+    </ul>
+
+</body>
+</html>
+```
+
 ---
 
 6. In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
